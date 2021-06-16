@@ -1,0 +1,47 @@
+
+Skype PWD:  vinayagar123
+
+githum username:  prakashchell
+
+ADD mail:  prakashchell123
+---------------------------------------------------------------
+min user name: centos
+PWD: centos
+
+su -   -----bfore adminstor 
+adminstartor PWD: root
+su -
+
+if config -a   --ip check cmd
+
+init 5     ---linux shutdoun cmd
+
+init 6  ----linux restart cmd
+
+---------------------------------------------------------
+	FIRST CLASS CMD:
+
+1)pwd - present working directory
+2) Su - username
+Switch user to other user
+3)ifconfig -a --- to check the ip for linux or unix server
+4) touch filename -- for creating a new file
+5) mkdir directortyname --- to create a new directory
+6) ls -l --- to list or view the files and directory names
+7) cat filename
+To open the file and view the content
+8) cd ---- change directory
+9) cd..  --- go back one directory
+10) cat /etc/ passwd
+To list user accounts available in the server
+11) useradd user name
+To add a user account in a linux server
+12) passwd user name
+To set the password for user
+
+---------------------------------------------------------------
+
+	
+Aws:
+
+Youtube Channel name:  TamilanTech Tutorials
