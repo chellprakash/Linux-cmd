@@ -1,0 +1,44 @@
+now i will create the AWS free account by using this url
+	https://aws.amazon.com/console/
+
+i will create the one EC2 instance its nothing its virsual server
+
+EC2--Elastic compute cloud
+			its a web based service that allows business to run application prg in the aws public cloud 
+	
+	i will give one example
+		suppose you buy a one laptop/ desktop means what you will check?
+		
+			1. OS
+				latest orignal os are installed or not 
+				
+			2.Storage 
+				how much storage this laptop
+				
+			3. RAM/processer 
+			
+			4. Login by using kery pair method 
+			
+		same thinks its needed for the create EC2 instance
+			normal laptop we are using ISO format OS but server os or virsual os format is AMI (amazon machine image) format.
+		
+	real time we are  choing the stroarge /cpu based on the client requirment 
+		
+		i will give one example: 
+		
+			one of the client required to the gaming application lunch  in the EC2 server means
+				we are choocing  high processer cpu because 
+
+
+		generally 
+			linux server storage minimum size is 8 gb
+			windows server storage ,minimum size is 30gb		
+			
+			
+	now i created the EC2 instance 
+	suppose you want any addinal drive speace means 
+	
+	which AZ you created the instance same az you choice the volume options
+			
+		
+		

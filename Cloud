@@ -1,0 +1,30 @@
+cloud 
+	1. buy server ---high configuration 
+	2. OS like that windows 10 ,7,8.1 etc 
+	3. installed the basic Software 
+	4. Network --each and every server is communicated on the switch  and router.
+	5.maintance ---its physical activity like that chairs, power releated issue 
+	6.monitoring---- we have monitoring each server is good or not/ seurity update or not (daily or montly activity.
+	7. adminstractive .
+	
+		i want 1000 server---each server should be 100GB RAM,100GB HD, 100CPU core 
+		its configured with one minite it possiable for the physicalsetup. but its possiable for the cloud.
+		
+	now i will give defination of the cloud:
+		its on-demand delivery of the IT resource like that compute, RAM,strage etc. via  the Network with pay-as you-go pricing.
+		this cloud comuputing. 
+		
+-------------------------------------------------------------------------------------------
+
+Types of cloud:
+	there are 3 types are in the cloud computing
+		1.pubilc ----shared infrastructure and different user---EX: AMS, Azure,GCP.
+		2.private-----shared infrastructure with in the organization 
+		3.hybird------Cominbation of the public and private 
+---------------------------------------------------------------------------------------------
+Types of the service model:
+	there are 3 types 
+		1.IAAS---Infrastructure-as-a-service----> its only allocate the virutulized computing resource to the user (compute,stroage,application)
+		2.PAAS--Platform-as-a-services--->readymade application-->build on the IAAS 
+		3.SAAS--Software-as-a-service--->IAAS+PAAS-->pay-per-use--->ex: gmail,,7star hottel
+---------------------------------------------------------------------------------------------		

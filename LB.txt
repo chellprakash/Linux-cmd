@@ -1,0 +1,34 @@
+	hi team
+		i moving to the next side of the Load balance 
+			Load balance is called the Elastic Load balance in the Aws.
+				
+				generally LB is forward to the internet traffic to the multiple servers (Ec2 instance) down stream.
+	one word defination is :  same application runing on the mutliaple servers 
+
+		there are 3 types in the Load balance	
+			1. classic LB ---v1 generation ---2009
+			2. Application LB ----v2 generation ---2016
+			3. Network LB---v2 generation---2017
+			
+	1. classic LB demo session:
+	
+	what are prequired of the Classic LB:
+		1. you create the minimum 2 EC2 instance
+		2. different AZ
+		3. install the webserver
+		
+ Now we are moving to the demo session 
+		i created the 2 EC2 instance 
+ what is Load balance now i will explain 
+ 
+ refere the paint document :
+	can you imagine 4 users access the application in the servers so load balance work is its reduces the internet traffic 
+		user 1 requested is go to the server1
+		user2 request go to server2
+		user 3 req is goto server1
+		user4 req go to server2
+		
+how to check the servers is availbile or not in the LB 
+	index.html  this cmd is using check the status of this server.
+		inservice means its healthy 
+		outservice means its unhealthy

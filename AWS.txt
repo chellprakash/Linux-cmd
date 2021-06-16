@@ -1,0 +1,29 @@
+What is the AWS:
+	AWS --> Amazon Web Service
+	its provide the on-demand cloud computing platform. to government, companies, individuals on a paid subcription.
+	its free for 12 months in our Market.
+-----------------------------------------------------------------------
+
+Next i will give one dome session for the EC2 instance but you should be knowledge about Edge Location, Region, Availabilty Zone  
+-------------------------------------------------------------------------
+
+What is the region
+	region is a geographic location 
+	set of the datacenter are deployed 
+	all the datacenter are connected through the backbone network
+	worldwise 24 region are deplouyed as of a june 2020
+---------------------------------------------------------------------------
+
+what is the Availabilty Zone:
+
+	its a phsyical location of the datacenter with in the region 
+	every region consis of the 2 or more the datacenter is called the availabilty zone
+	every Availabilty Zone not a single data center its a cluseter of the data center 
+	availabilty zone disatance is 50 to 200 Kilameter
+------------------------------------------------------------------------------
+What is the Edge Location: 
+	i will give some examble: 
+		i deploy the one application in the EC2 instance 
+		that application are access to the different users from different regions. 
+	india region user are access the application first time then next time different user are access the same application means its connect to the Edge location and user got the result as well	.............................................................................
+--------------------------------------------------------------------------------------

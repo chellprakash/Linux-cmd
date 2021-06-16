@@ -1,0 +1,21 @@
+Auto Scalling  
+
+One word definiation is : 	
+
+		its increase or decrease the configuration of the any server.
+
+BY refere the PAINT & Word Doc 
+
+			Demo Session : 
+			
+Pre-requirment  of the Auto Scaling:
+
+	1. AMI --EC2 Instance
+	
+	2. Load balance Configuration (without adding the EC2 instance)
+	
+	3. Notification ---SNS (Simple Notification server)
+	
+	4. Auto Policy  & Lanuch Configuration 
+		i) Scale In
+		ii) Scale Out
